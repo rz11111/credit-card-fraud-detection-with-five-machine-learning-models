@@ -11,7 +11,7 @@ This project focuses on credit card fraud detection, employing five distinct mac
 - Apple Keynote
 
 ## 3. Machine Learning Analysis
-This machine learning analysis encompasses both data exploration and credit card fraud detection using various machine learning models, including Random Forest, Logistic Regression, K-Nearest Neighbors, Support Vector Machine, and neural networks using TensorFlow. These models are implemented with Random Under-sampling and Synthetic Minority Over-sampling Technique (SMOTE). Below is the table of contents of the Jupyter Notebook. 
+This **machine learning analysis** encompasses both data exploration and credit card fraud detection using various machine learning models, including Random Forest, Logistic Regression, K-Nearest Neighbors, Support Vector Machine, and neural networks using TensorFlow. These models are implemented with Random Under-sampling and Synthetic Minority Over-sampling Technique (SMOTE). Below is the table of contents of the Jupyter Notebook. (View details in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Python%20-%20Machine%20Learning%20Analysis/credit-card-fraud-detection.ipynb))
 
 1. About Dataset
 2. Import Libraries
@@ -50,8 +50,14 @@ This machine learning analysis encompasses both data exploration and credit card
 9. Summary
 
 ## 4. Data Visualisation 
-This data visualisation was created by loading, cleansing, and preprocessing the dataset in Power BI Desktop, showcasing the dataset's key characteristics.
+This data visualisation was created by loading, cleansing, and preprocessing the dataset in **Power BI Desktop**, showcasing the dataset's key characteristics. (View in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Power%20BI%20-%20Data%20Visualisation/powerbi-dashboard.png))
 
-![]()
+![powerbi-dashboard.png](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Power%20BI%20-%20Data%20Visualisation/powerbi-dashboard.png)
+
+## 5. Model Performance Evaluation 
+The following pages offer a glimpse into the summary of the performance of the five machine learning models before and after implementing resampling techniques, as created in **Keynote**. (View complete version in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Keynote%20-%20Model%20Performance%20Evaluation/model-performance-evaluation.pdf))
+
+
+
 
 
