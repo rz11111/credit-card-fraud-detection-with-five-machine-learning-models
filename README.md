@@ -55,9 +55,9 @@ This **machine learning analysis** encompasses both data exploration and credit 
 9. Summary
 
 ## 5. Data Visualisation 
-This data visualisation was created by loading, cleansing, and preprocessing the dataset in **Power BI Desktop**, showcasing the dataset's key characteristics. (View in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Power%20BI%20-%20Data%20Visualisation/powerbi-dashboard.png))
+This data visualisation was created by loading, cleansing, and preprocessing the dataset in **Power BI Desktop**, showcasing the dataset's key characteristics. (View in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Power%20BI%20-%20Data%20Visualisation/powerbi-dashboard.pdf))
 
-![powerbi-dashboard.png](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Power%20BI%20-%20Data%20Visualisation/powerbi-dashboard.png)
+![powerbi-dashboard.png]()
 
 ## 6. Model Performance Evaluation 
 The following pages provide a glimpse into the summary of the performance of the five machine learning models before and after implementing resampling techniques, as created in **Keynote**. (View the complete version in [repository](https://github.com/rz11111/credit-card-fraud-detection-with-five-machine-learning-models/blob/main/Keynote%20-%20Model%20Performance%20Evaluation/model-performance-evaluation.pdf))
